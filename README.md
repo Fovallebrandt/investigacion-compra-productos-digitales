@@ -1,6 +1,6 @@
 # Investigación: compra de productos educativos digitales
 
-**Repositorio:** pendiente de creación privada en GitHub (requiere autenticación web de la cuenta).  
+**Repositorio:** privado y publicado en GitHub: `Fovallebrandt/investigacion-compra-productos-digitales`.  
 **Última actualización:** 2026-10-22 13:00 CLST  
 **Estado general:** primera iteración documentada; México priorizado.  
 
