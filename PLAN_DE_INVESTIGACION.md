@@ -1,8 +1,8 @@
 # Plan de investigación
 
-**Versión:** 0.3.0
+**Versión:** 0.4.0
 
-**Actualizado:** 2026-10-22 13:20 CLST
+**Actualizado:** 2026-10-22 15:45 CLST
 
 ## Alcance
 
@@ -44,6 +44,10 @@ Primero México; después contraste con Chile, España, Colombia, Argentina y Br
 - No usar reseñas, seguidores o tráfico como prueba de ventas o eficacia.
 - No afirmar que una regla o medio de pago se aplica a toda la población si la fuente no lo demuestra.
 
+## Fase 3 — Comportamiento general de compra digital
+
+La investigación sobre oferta de bienestar no sustituye evidencia sobre decisión de compra de productos digitales en general. El alcance, método, fichas país y condición de cierre de esta fase están en [PLAN — comportamiento de compra de productos digitales](investigaciones/04-comportamiento-compra-digital/PLAN.md).
+
 ## Preguntas operativas
 
 - ¿Qué problema o resultado justifica pagar cuando existen alternativas gratuitas?
@@ -76,3 +80,4 @@ No se encontró en esta primera ronda una estadística pública nacional recient
 - Diferenciar lo que alguien declara de su conducta comprobada.
 - Codificar hallazgos por problema, alternativa gratuita, señal de confianza, objeción, pago y formato.
 - No prometer beneficios, descuentos ni tratamiento a cambio de participar.
+
