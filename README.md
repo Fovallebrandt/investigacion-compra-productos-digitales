@@ -19,5 +19,6 @@ Los informes separan **hechos observados**, **inferencias** e **hipótesis**. Un
 
 - [Plan de investigación](PLAN_DE_INVESTIGACION.md)
 - [Síntesis y próximos pasos](SINTESIS_Y_PROXIMOS_PASOS.md)
+- [Prompt operativo: investigación de Hotmart](investigaciones/04-comportamiento-compra-digital/PROMPT_INVESTIGACION_HOTMART.md)
 - Fuentes y cambios dentro de cada estudio.
 
