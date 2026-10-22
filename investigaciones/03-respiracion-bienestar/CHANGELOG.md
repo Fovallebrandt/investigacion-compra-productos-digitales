@@ -1,5 +1,10 @@
 # Cambios — Respiración y bienestar
 
+## 0.3.0 — 2026-10-22 14:50 CLST
+
+- Se añadió un plan específico para ampliar la muestra de ofertas de respiración consciente.
+- Se definieron cuatro grupos de comparación, cuotas de búsqueda, campos obligatorios y criterios de descarte.
+
 ## 0.2.0 — 2026-10-22 13:45 CLST
 
 - Se incorporó la primera ronda de ofertas comparables visibles: México como foco y dos contrastes internacionales.
