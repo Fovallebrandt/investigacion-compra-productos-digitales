@@ -17,4 +17,5 @@
 | RB-13 | [Centro Budista CDMX — Mindfulness](https://budismo.org.mx/mindfulness/), consultada 2026-10-22 | Cursos online anunciados por fecha y tema. | No se observó precio. |
 | RB-14 | [Natura Respira](https://www.naturarespira.com/curso-de-respiracion-consciente/), consultada 2026-10-22 | Precio promocional, estructura de 8 semanas y ejercicios corregidos. | España; no extrapolable a México. |
 | RB-15 | [edX — Meditación](https://www.edx.org/es/aprende/meditacion), consultada 2026-10-22 | Cursos gratuitos y certificado de pago. | Plataforma internacional; precio no visible en la fuente. |
+| RB-16 a RB-65 | [Muestra ampliada de respiración](MUESTRA_AMPLIADA_RESPIRACION.md), consultada 2026-10-22 | 50 ofertas nuevas con respiración explícita. | Oferta visible; no prueba ventas ni calidad. |
 
