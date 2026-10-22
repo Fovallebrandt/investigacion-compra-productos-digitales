@@ -1,8 +1,8 @@
 # Aplicación: respiración consciente y bienestar
 
-**Versión:** 0.3.0  
-**Estado:** relevamiento inicial de oferta  
-**Actualizado:** 2026-10-22 14:50 CLST  
+**Versión:** 0.4.0  
+**Estado:** muestra ampliada de oferta; no mide ventas  
+**Actualizado:** 2026-10-22 15:30 CLST  
 **Alcance geográfico:** ofertas en español visibles; México no aislado de forma verificable.
 
 ## Hallazgos
@@ -48,7 +48,15 @@
 | La orientación humana aumenta la percepción de valor. | Comparar interés por versión autoguiada y sesión grupal con mismo contenido base. | Preferencia declarada y asistencia, no ventas proyectadas. |
 | Un objetivo concreto supera “bienestar” como mensaje. | Entrevistas cognitivas con alternativas como descanso, foco o exploración. | Qué se entiende, objeciones y lenguaje espontáneo. |
 
+## Muestra ampliada de respiración
+
+Se completó una muestra nueva de 50 ofertas donde la respiración es el núcleo explícito: cursos de práctica cotidiana, breathwork/pranayama, formación profesional y alternativas gratuitas o de bajo costo. Los registros, fuentes y campos no visibles se encuentran en [MUESTRA_AMPLIADA_RESPIRACION.md](MUESTRA_AMPLIADA_RESPIRACION.md).
+
+**Hecho observado:** México concentra 18 registros; Chile y Colombia aportan menos registros porque se excluyó el mindfulness genérico sin componente respiratorio sustantivo.
+
+**Límite:** precio anunciado, seguidores o testimonios no permiten inferir ventas, calidad o disposición real de pago.
+
 ## Vacíos y siguiente corte
 
-No se verificaron ventas de productos de respiración consciente para México. El siguiente corte seguirá el [plan de ampliación de muestra](PLAN_AMPLIACION_MUESTRA_RESPIRACION.md): 50 registros nuevos segmentados por práctica cotidiana, técnica intensiva, formación profesional y sustituto gratuito; luego, entrevistas con audiencia mexicana antes de definir formato o precio.
+No se verificaron ventas de productos de respiración consciente para México. El siguiente corte debe revisar las condiciones de checkout, políticas de reembolso y vigencia de las ofertas más comparables; luego, entrevistas con audiencia mexicana antes de definir formato o precio.
 
