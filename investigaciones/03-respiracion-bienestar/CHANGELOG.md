@@ -1,5 +1,11 @@
 # Cambios — Respiración y bienestar
 
+## 0.4.0 — 2026-10-22 15:30 CLST
+
+- Se ejecutó el plan de ampliación con 50 ofertas nuevas de respiración explícita.
+- Se segmentaron por práctica cotidiana, práctica específica, formación profesional y sustituto gratuito/pago.
+- Se registraron límites de cobertura para Chile y Colombia sin sustituirlos por mindfulness genérico.
+
 ## 0.3.0 — 2026-10-22 14:50 CLST
 
 - Se añadió un plan específico para ampliar la muestra de ofertas de respiración consciente.
