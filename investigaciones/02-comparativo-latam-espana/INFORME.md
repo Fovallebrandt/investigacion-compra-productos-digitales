@@ -31,11 +31,11 @@ La evidencia disponible no mide el mismo fenómeno en todos los países. Por eso
 
 ## Muestra inicial de oferta
 
-Se registraron 20 ofertas visibles de mindfulness, meditación o respiración: cuatro de Chile, cuatro de España, cuatro de Colombia, tres de Argentina y cinco de Brasil. La tabla, enlaces y campos no visibles están en [MUESTRA_OFERTAS_FASE_2.md](MUESTRA_OFERTAS_FASE_2.md).
+Se registraron 50 ofertas visibles de mindfulness, meditación o respiración: diez por país en Chile, España, Colombia, Argentina y Brasil. La tabla, enlaces y campos no visibles están en [MUESTRA_OFERTAS_FASE_2.md](MUESTRA_OFERTAS_FASE_2.md).
 
 **Hecho observado:** hay desde cursos de bajo precio y acceso individual hasta programas universitarios o profesionales de varias semanas.
 
-**Límite:** la muestra todavía no alcanza las diez ofertas por país previstas en el plan y no representa ventas, calidad, demanda ni precio medio de cada mercado.
+**Límite:** la muestra cumple el mínimo de diez ofertas por país, pero no representa ventas, calidad, demanda ni precio medio de cada mercado.
 
 ## Conclusiones verificables
 
@@ -43,5 +43,5 @@ Se registraron 20 ofertas visibles de mindfulness, meditación o respiración: c
 
 **Inferencia:** la propuesta de valor educativa debe conservarse, pero el mecanismo de cobro y la comunicación de precio necesitan localización por país.
 
-**Vacío:** no se localizó una serie pública comparable que responda qué porcentaje de quienes consumen contenido gratuito acaba pagando un curso en estos mercados. Faltan seis ofertas comparables por cada país para completar la muestra prevista; tampoco hay tasas de conversión verificadas de competidores.
+**Vacío:** no se localizó una serie pública comparable que responda qué porcentaje de quienes consumen contenido gratuito acaba pagando un curso en estos mercados. Tampoco hay tasas de conversión verificadas de competidores.
 
