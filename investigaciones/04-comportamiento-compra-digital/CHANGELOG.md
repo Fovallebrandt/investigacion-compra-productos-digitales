@@ -1,5 +1,11 @@
 # Cambios — comportamiento de compra digital
 
+## 0.3.0 — 2026-10-22 18:11 CLST
+
+- Se ejecutó la investigación operativa de Hotmart para el programa «7 días para explorar tu respiración».
+- Se añadió una guía de implementación con requisitos, oferta de pago único, Área de Miembros, liberación diaria, métodos de pago a comprobar y pruebas previas al lanzamiento.
+- Se documentaron las decisiones que requieren datos personales, tributarios, bancarios o una elección del creador.
+
 ## 0.2.0 — 2026-10-22 20:08 UTC
 
 - Se retiró la estimación de conversión de contenido gratuito a pagado como objetivo de esta iteración: no hay evidencia pública comparable suficiente.

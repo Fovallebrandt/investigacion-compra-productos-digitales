@@ -1,12 +1,12 @@
 # Comportamiento de compra de productos digitales — primera síntesis
 
-**Versión:** 0.2.0
+**Versión:** 0.3.0
 
 **Estado:** evidencia de contexto y pago; no mide conversión de gratuito a pagado.
 
 **Países:** México, Chile, España, Colombia, Argentina y Brasil.
 
-**Actualización:** 2026-10-22 20:08 UTC.
+**Actualización:** 2026-10-22 18:11 CLST.
 
 ## Respuesta corta
 
@@ -72,6 +72,8 @@
 ### Decisión recomendada para el primer lanzamiento
 
 **Recomendación (inferencia operativa):** lanzar con **pago único** y un único flujo internacional en **Hotmart + Hotmart Club/área de miembros**, enlazado desde una página propia de Respiro y Conecto. No usar suscripción ni crear tres integraciones de pago nacionales en esta primera versión.
+
+La secuencia de alta, configuración, pruebas y decisiones pendientes está documentada en la [Guía operativa de implementación de Hotmart](GUIA_IMPLEMENTACION_HOTMART.md). No confirma que exista una cuenta configurada o un producto publicado.
 
 | Componente | Decisión inicial | Motivo y límite |
 |---|---|---|
