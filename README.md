@@ -8,7 +8,7 @@
 |---|---|---:|---|
 | México | [INFORME](investigaciones/01-mexico/INFORME.md) | 0.1.0 | Borrador investigado |
 | Comparativo | [INFORME](investigaciones/02-comparativo-latam-espana/INFORME.md) | 0.1.0 | Panorama acotado |
-| Respiración y bienestar | [INFORME](investigaciones/03-respiracion-bienestar/INFORME.md) | 0.1.0 | Mapeo exploratorio |
+| Respiración y bienestar | [INFORME](investigaciones/03-respiracion-bienestar/INFORME.md) | 0.2.0 | Relevamiento inicial de oferta |
 
 La pregunta rectora es: **¿qué tiene que ocurrir para que una persona que consume contenido digital gratuito decida pagar por un producto educativo?**
 
