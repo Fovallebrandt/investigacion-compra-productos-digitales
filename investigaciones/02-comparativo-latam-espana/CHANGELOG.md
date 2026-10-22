@@ -5,7 +5,7 @@
 - Se incorporó Chile al alcance de la segunda fase.
 - Se añadió evidencia de comercio electrónico y derechos de consumo para Chile.
 - Se registró una muestra parcial de 20 ofertas visibles de cinco países.
-- Se declaró explícitamente que faltan ofertas para completar el mínimo del plan y que no se calcularon promedios ni ventas.
+- Se amplió la muestra a diez ofertas visibles por país (50 en total), sin calcular promedios ni inferir ventas.
 
 ## 0.2.0 — 2026-10-22 14:10 CLST
 
