@@ -1,8 +1,8 @@
 # Aplicación: respiración consciente y bienestar
 
-**Versión:** 0.2.0  
+**Versión:** 0.3.0  
 **Estado:** relevamiento inicial de oferta  
-**Actualizado:** 2026-10-22 13:45 CLST  
+**Actualizado:** 2026-10-22 14:50 CLST  
 **Alcance geográfico:** ofertas en español visibles; México no aislado de forma verificable.
 
 ## Hallazgos
@@ -50,5 +50,5 @@
 
 ## Vacíos y siguiente corte
 
-No se verificaron ventas de productos de respiración consciente para México. Para el siguiente corte se requieren al menos 15 ofertas mexicanas con página de checkout o condiciones completas, 10 latinoamericanas y 5 españolas; luego, entrevistas con audiencia mexicana antes de definir formato o precio.
+No se verificaron ventas de productos de respiración consciente para México. El siguiente corte seguirá el [plan de ampliación de muestra](PLAN_AMPLIACION_MUESTRA_RESPIRACION.md): 50 registros nuevos segmentados por práctica cotidiana, técnica intensiva, formación profesional y sustituto gratuito; luego, entrevistas con audiencia mexicana antes de definir formato o precio.
 
