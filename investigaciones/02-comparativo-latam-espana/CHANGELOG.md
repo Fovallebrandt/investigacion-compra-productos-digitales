@@ -1,5 +1,12 @@
 # Cambios — Comparativo
 
+## 0.3.0 — 2026-10-22 14:30 CLST
+
+- Se incorporó Chile al alcance de la segunda fase.
+- Se añadió evidencia de comercio electrónico y derechos de consumo para Chile.
+- Se registró una muestra parcial de 20 ofertas visibles de cinco países.
+- Se declaró explícitamente que faltan ofertas para completar el mínimo del plan y que no se calcularon promedios ni ventas.
+
 ## 0.2.0 — 2026-10-22 14:10 CLST
 
 - Se incorporaron España, Colombia, Argentina y Brasil con señales fechadas de compra o pago digital.
@@ -11,3 +18,4 @@
 
 - Se creó panorama comparativo acotado con España, Colombia y Argentina.
 - Se excluyeron conclusiones sobre cursos pagados por falta de una base comparable.
+
