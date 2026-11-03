@@ -1,0 +1,20 @@
+# Fontes — Respiração e bem-estar
+| ID | Fonte | Contribuição | Limite |
+|---|---|---|---|
+| RB-01 | [Hotmart: Workshop de introdução ao mindfulness](https://hotmart.com/es/marketplace/productos/taller-introduccion-al-mindfulness/L99648461K), consultado em 22/10/2026 | Evidência de oferta em espanhol e formato de curso. | Preço/vendas/país comprador não verificável na planilha revisada. |
+| RB-02 | [Hotmart: Técnicas de relaxamento e meditação](https://hotmart.com/es/marketplace/productos/curso-tecnicas-de-relajacion-y-meditacion/G97217624N), consultado 22/10/2026 | Exemplo de proposta de cursos de bem-estar. | Caso individual; nenhuma venda verificada. |
+| RB-03 | [PROFECO: LFPC](https://www.profeco.gob.mx/juridico/pdf/l_lfpc_ultimo_camdip.pdf), consultado 2026-10-22 | Marco de transparência comercial no México. | Não regulamenta as alegações de saúde por si só nem mede as compras. |
+| RB-04 | [Respiração Consciente, Prânica e Hipopressiva](https://www.paypal.com/ncp/payment/HE4W7TCY2H94W), consultado 2026-10-22 | Preço visível de MXN 1.555 e breve descrição. | Modalidade, fornecedor e condições não confirmadas na página revisada. |
+| RB-05 | [A Arte de Viver — Parte 1](https://www.artofliving.org/mx-es/courses/art-of-living-part-one), consultado em 22/10/2026 | Online MXN 2.390, pessoalmente MXN 2.900; 4 dias de 3 horas. | Uma oferta de marca; não permite inferir vendas. |
+| RB-06 | [Morgan Online — Gestão e manejo do estresse](https://morganonline.com.mx/cursos/gestion-emocional-para-lideres/), consultado em 22/10/2026 | MXN 2.300 + IVA, 5 horas, foco em líderes. | Segmento corporativo/especializado. |
+| RB-06 | [Morgan Online - Gerenciamento e gerenciamento de estresse] (https://morganonline.com.mx/cursos/gestion-emocional-para-lideres/), acessado em 22/10/2026 | MXN 2.300 + IVA, 5 horas, abordagem dos líderes. | Segmento corporativo/especializado. |
+| RB-07 | [Emagister — estresse/inteligência emocional](https://www.emagister.com.mx/curso_aprender_manejar_emociones_trabajo-cursos-778020.htm), consultado em 22/10/2026 | Preços publicados de ofertas de cursos online. | Mercado; Preços e fornecedor requerem confirmação direta. |
+| RB-08 | [Superprof — Meditação](https://www.superprof.mx/clases/meditacion/mexico/), consultado em 22/10/2026 | Preço médio publicado para aulas individuais. | Tutoriais, não um programa comparável. |
+| RB-09 | [Fundação Carlos Slim — curso gratuito](https://fundacioncarlosslim.org/curso-gratis-aprende-a-mirarte-con-atencion-a-traves-de-una-respiracion-consciente/), 2025 | Alternativa gratuita sobre respiração consciente. | Não mede matrículas ou aprendizagem. |
+| RB-10 | [Instituto Mexicano de Mindfulness](https://mindfulness.org.mx/), consultado em 22/10/2026 | Minicurso gratuito e treinamento de posicionamento. | Preço/formato dos programas não visíveis. |
+| RB-11 | [UVM — Certificação Mindfulness](https://uvm.mx/oferta-academica/diplomados-certificaciones/capital-humano-en-linea-diplomados-y-certificaciones/certificacion-en-mindfulness), consultado 2026-10-22 | Online, 6 módulos, 96 horas. | Preço por consulta; não comparável em preço. |
+| RB-12 | [Mindful México](https://www.mindfulmexico.com.mx/), consultado 2026/10/22 | Proposta de prática estruturada e datas. | Preço e modalidade não confirmados. |
+| RB-13 | [Centro Budista CDMX — Mindfulness](https://budismo.org.mx/mindfulness/), consultado em 22/10/2026 | Cursos online anunciados por data e tópico. | Nenhum preço anotado. |
+| RB-14 | [Natura Respira](https://www.naturarespira.com/curso-de-respiracion-consciente/), consultado 2026-10-22 | Preço promocional, estrutura de 8 semanas e exercícios corrigidos. | Espanha; não pode ser extrapolado para o México. |
+| RB-15 | [edX — Meditação](https://www.edx.org/es/aprende/meditacion), consultado em 22/10/2026 | Cursos gratuitos e certificado pago. | Plataforma internacional; preço não visível na fonte. |
+| RB-16 a RB-65 | [Amostra de respiração estendida](MUESTRA_AMPLIADA_RESPIRACION.md), consultado em 22/10/2026 | 50 novas ofertas com respiração explícita. | Oferta visível; Não testa vendas ou qualidade. |

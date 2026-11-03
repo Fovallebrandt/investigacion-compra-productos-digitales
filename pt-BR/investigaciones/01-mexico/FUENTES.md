@@ -1,0 +1,11 @@
+# Fontes – México
+| ID | Fonte/data | O que contribui | População ou âmbito | Limitação |
+|---|---|---|---|---|
+| MX-01 | [INEGI, ENDUTIH 2024](https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/endutih/ENDUTIH_24_RR.pdf), publicado em 2025 | 35,8% dos usuários fizeram compras online em 2024. | México; Inquérito à utilização das TIC. | Não identifica formação/cursos ou conversão. |
+| MX-02 | [INEGI/CNBV, ENIF 2024](https://www.inegi.org.mx/contenidos/programas/enif/2024/doc/enif_2024_resultados.pdf), 2025 | Inclusão, formas de pagamento, uso de app bancário e diferenças regionais. | População de 15 a 70 anos; resultados nacionais. | Não mede compras de treinamento. |
+| MX-03 | [PROFECO, Monitoramento de Lojas Virtuais](https://www.profeco.gob.mx/tiendasvirtuales/), consultado 2026-10-22 | Mecanismo público de revisão de conformidade para provedores digitais. | México; local de consulta. | Não quantifica confiança ou conversão. |
+| MX-04 | [Lei Federal de Defesa do Consumidor](https://www.profeco.gob.mx/juridico/pdf/l_lfpc_ultimo_camdip.pdf), consultada em 22/10/2026 | Quadro de transparência e proteção do consumidor. | México; regra. | Não é evidência comportamental. |
+| MX-05 | [AMVO, Estudo de Vendas Online 2025](https://8982035.fs1.hubspotusercontent-na1.net/hubfs/8982035/AMVO_Estudio%20de%20Venta%20Online%202025_P%C3%BAblica_V2.pdf), 2025 | Valor de varejo 2024 e contexto dos compradores digitais. | México; Estúdio AMVO/Netquest. | Varejo geral, não cursos; metodologia e amostra devem ser lidas juntamente com o relatório. |
+| MX-06 | [Instituto Aprende](https://aprende.com/), consultado 2026-10-22 | Oferta visível de programas práticos, incl. bem-estar. | Catálogo comercial visível. | Não mostra as vendas nem representa necessariamente o mercado. |
+| MX-07 | [CONAMAT](https://www.conamat.com/), consultado 2026/10/22 | Exemplo de proposta educacional objetiva/orientada para exames. | Oferta de um fornecedor. | Caso único; não permite inferir resultados comerciais. |
+| MX-08 | [Cursos Aprendiz.mx](https://cursos.aprende.gob.mx/), consultado em 22/10/2026 | Existência de cursos alternativos públicos/gratuitos. | Catálogo público. | Não mede substituição versus oferta paga. |
